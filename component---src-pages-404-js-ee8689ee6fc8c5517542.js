@@ -1,0 +1,2 @@
+(self.webpackChunkspm_kubernetes=self.webpackChunkspm_kubernetes||[]).push([[8883],{9616:function(e,n,t){"use strict";t.r(n);var s=t(7294),r=t(7426),o=[{href:"/components/markdown",text:"Markdown"},{href:"/components/Aside",text:"Aside"},{href:"/components/demo",text:"Demo"}];n.default=function(){return s.createElement(r.e9,{links:o})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-ee8689ee6fc8c5517542.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunkspm_kubernetes=self.webpackChunkspm_kubernetes||[]).push([[751],{4068:function(e,r,t){"use strict";t.d(r,{tbV:function(){return s}});var n,u=t(9520),c=t(7294),s=c.forwardRef((function(e,r){var t=e.children,s=(0,u._)(e,["children"]);return c.createElement(u.I,(0,u.a)({width:20,height:20,viewBox:"0 0 32 32",xmlns:"http://www.w3.org/2000/svg",fill:"currentColor",ref:r},s),n||(n=c.createElement("path",{d:"M16 14L6 24 7.4 25.4 16 16.8 24.6 25.4 26 24zM4 8H28V10H4z"})),t)}))}}]);
+//# sourceMappingURL=5f6bb6fb-acd2fb137cc97c53bca8.js.map
